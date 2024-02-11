@@ -2,6 +2,13 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.6.
 
+This website allows users to effortlessly create appointments, display them neatly, and conveniently delete any unwanted appointments. Made using Data-binding and Local Storage.
+
+
+## Website view
+
+![Screenshot 2024-02-12 015432](https://github.com/bhargav0383/Appointment-App/assets/102506024/f0750ebb-26d6-4e63-aee7-26393328f26e)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
